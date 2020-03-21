@@ -22,7 +22,7 @@ class Introduction extends PureComponent {
               I'M
             </Typography>
             <Typography variant="h2" className="textColor">
-              SUNNY KUMAR
+              SUNNY KUMAR SINGH
             </Typography>
             <Typography variant="h6" className="textColor">
               FULL STACK DEV.
